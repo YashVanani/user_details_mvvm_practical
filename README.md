@@ -1,1 +1,1 @@
-# user_details_mvvm_practical
+# users_details_mvvm
